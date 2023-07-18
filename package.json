@@ -1,0 +1,26 @@
+{
+  "name": "roxiler-sys",
+  "version": "1.0.0",
+  "description": "This project is associated with Roxiler Systems.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heylightning/roxiler-sys.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heylightning/roxiler-sys/issues"
+  },
+  "homepage": "https://github.com/heylightning/roxiler-sys#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "nodemon": "^3.0.1"
+  }
+}
