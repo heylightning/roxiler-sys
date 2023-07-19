@@ -28,6 +28,8 @@ npm install
 node main.js
 ```
 
+This will host the API on `http://localhost:3000/`
+
 ### Tech stack used.
 
 1. NodeJS
